@@ -8,6 +8,7 @@ const mockPeople = [
   { name: "Person 1", imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1GOtMqx1Ps7pECsTH_Cef7kfw-4PC3MfVA&s" },
   { name: "Person 2", imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpqza8cZZu8ywOnqNwtuXI3fjIqtRrom0dV0ocFfxqjE0iOj6wR5hZWyhUhY1UgOe9g44&usqp=CAU" },
   { name: "Person 3", imgUrl: "https://i.dailymail.co.uk/i/newpix/2018/08/09/10/4EF3F2B100000578-6042681-Hot_stuff_Daily_Mail_Australia_can_reveal_the_stunning_blonde_s_-a-8_1533807262661.jpg" },
+  { name: "Person 4", imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1GOtMqx1Ps7pECsTH_Cef7kfw-4PC3MfVA&s" },
   // Add more mock data as needed
 ];
 
